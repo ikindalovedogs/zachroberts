@@ -1,15 +1,11 @@
  /* this is my css file */
 /*styles of tags*/
 
-
 /*styles of classes*/
 .shark_bait {
-  background-color: green;
+  background-color: lightgreen;
 }
 .shark_bait {
   color: red;
 }
 /*styles of ids*/
-.tuna_fish {
-  color: pink;
-}
