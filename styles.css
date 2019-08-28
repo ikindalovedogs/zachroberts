@@ -1,11 +1,13 @@
  /* this is my css file */
 /*styles of tags*/
-
+html {
+  background-color: lightgrey;
+}
 /*styles of classes*/
 .shark_bait {
   background-color: lightgreen;
 }
 .shark_bait {
-  color: red;
+  color: purple;
 }
 /*styles of ids*/
